@@ -53,5 +53,3 @@ args = parser.parse_args()
 user = args.user
 password = args.password    
 get_friends(user, password)
-delete this gist
-Comments are parsed with GitHub Flavored Markdown
